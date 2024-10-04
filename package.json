@@ -1,0 +1,15 @@
+{
+  "name": "appwrite-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-appwrite": "^14.1.0"
+  }
+}
